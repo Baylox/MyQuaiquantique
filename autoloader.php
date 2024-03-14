@@ -1,6 +1,6 @@
 <?php
 // Déclaration de l'espace de noms pour cette classe (PSR-4)
-namespace App;
+namespace Src;
 
 // Définition de la classe Autoloader
 class Autoloader
