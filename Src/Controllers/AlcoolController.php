@@ -3,8 +3,8 @@
 namespace App\Controllers;
 
 use App\Models\AlcoolModel;
-
-class AlcoolController {
+// Try + catch => Echo ?
+class AlcoolController { 
     protected $model;
 
     public function __construct(AlcoolModel $model) {
