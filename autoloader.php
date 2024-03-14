@@ -1,7 +1,9 @@
 <?php
+
+// A METTRE EN RELATION AVEC COMPOSER.JSON
+
 // Déclaration de l'espace de noms pour cette classe (PSR-4)
 namespace Src;
-
 // Définition de la classe Autoloader
 class Autoloader
 {
